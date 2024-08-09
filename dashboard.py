@@ -18,7 +18,7 @@ from datetime import datetime
 import re
 
 # Set your OpenAI API key
-openai.api_key = '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'
+openai.api_key = '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'
 
 # Function to generate a report using the ChatGPT API
 def generate_report_with_chatgpt(data):
